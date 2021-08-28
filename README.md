@@ -1,2 +1,2 @@
 # ebay
-Tools for ebay data analysis
+Tools for ebay sales data analysis
